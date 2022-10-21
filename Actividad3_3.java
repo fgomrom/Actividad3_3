@@ -1,6 +1,6 @@
 public class Actividad3_3 {
     public static void main(String[] args) {
-        // PUnto 1
-        System.out.printf("Hola");
+        String nombre = "Fran";
+        System.out.printf(nombre);
     }
 }
